@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DED68787-D75E-4363-BC23-65A26EB730C3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JenkinsCIDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C35E9453986AA0AC0AB07FBF7B6DF8896453C874</key>
+		<string>github.com:jenkinsairwdemo/JenkinsCIDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JenkinsCIDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C35E9453986AA0AC0AB07FBF7B6DF8896453C874</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jenkinsairwdemo/JenkinsCIDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C35E9453986AA0AC0AB07FBF7B6DF8896453C874</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C35E9453986AA0AC0AB07FBF7B6DF8896453C874</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JenkinsCIDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
