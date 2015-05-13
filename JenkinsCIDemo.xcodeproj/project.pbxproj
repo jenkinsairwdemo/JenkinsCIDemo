@@ -81,7 +81,6 @@
 		1AB4377B1AD2D0B700F63E48 /* JenkinsCIDemo */ = {
 			isa = PBXGroup;
 			children = (
-				1AB437801AD2D0B700F63E48 /* AppDelegate.h */,
 				1AB437811AD2D0B700F63E48 /* AppDelegate.m */,
 				1AB4377C1AD2D0B700F63E48 /* Supporting Files */,
 			);
@@ -91,6 +90,7 @@
 		1AB4377C1AD2D0B700F63E48 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1AB437801AD2D0B700F63E48 /* AppDelegate.h */,
 				1AB437831AD2D0B700F63E48 /* ViewController.h */,
 				1AB437841AD2D0B700F63E48 /* ViewController.m */,
 				1AB437861AD2D0B700F63E48 /* Main.storyboard */,
@@ -416,6 +416,7 @@
 				1AB4379E1AD2D0B700F63E48 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1AB4379F1AD2D0B700F63E48 /* Build configuration list for PBXNativeTarget "JenkinsCIDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +425,7 @@
 				1AB437A11AD2D0B700F63E48 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

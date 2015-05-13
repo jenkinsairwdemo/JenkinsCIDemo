@@ -25,8 +25,7 @@
     // Use this method to pause ongoing tasks, disable timers, and throttle down OpenGL ES frame rates. Games should use this method to pause the game.
     
 /* ----------------------------------------------- Start Adding your comments here -----------------------------------*/
-    // 123456
-    // 1
+    
     
     
 /* ----------------------------------------------- End region : Comments ---------------------------------------------*/
