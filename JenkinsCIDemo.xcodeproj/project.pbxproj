@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A6FA73F1B0D3FA700531034 /* SampleIcon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A6FA73C1B0D3FA700531034 /* SampleIcon-72.png */; };
+		1A6FA7401B0D3FA700531034 /* SampleIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A6FA73D1B0D3FA700531034 /* SampleIcon.png */; };
+		1A6FA7411B0D3FA700531034 /* SampleIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A6FA73E1B0D3FA700531034 /* SampleIcon@2x.png */; };
 		1AB4377F1AD2D0B700F63E48 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AB4377E1AD2D0B700F63E48 /* main.m */; };
 		1AB437821AD2D0B700F63E48 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AB437811AD2D0B700F63E48 /* AppDelegate.m */; };
 		1AB437851AD2D0B700F63E48 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AB437841AD2D0B700F63E48 /* ViewController.m */; };
@@ -27,6 +30,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1A6FA73C1B0D3FA700531034 /* SampleIcon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SampleIcon-72.png"; sourceTree = "<group>"; };
+		1A6FA73D1B0D3FA700531034 /* SampleIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SampleIcon.png; sourceTree = "<group>"; };
+		1A6FA73E1B0D3FA700531034 /* SampleIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SampleIcon@2x.png"; sourceTree = "<group>"; };
 		1AB437791AD2D0B700F63E48 /* JenkinsCIDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JenkinsCIDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AB4377D1AD2D0B700F63E48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1AB4377E1AD2D0B700F63E48 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -114,6 +120,9 @@
 		1AB437961AD2D0B700F63E48 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1A6FA73C1B0D3FA700531034 /* SampleIcon-72.png */,
+				1A6FA73D1B0D3FA700531034 /* SampleIcon.png */,
+				1A6FA73E1B0D3FA700531034 /* SampleIcon@2x.png */,
 				1AB437971AD2D0B700F63E48 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -200,8 +209,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				1AB437881AD2D0B700F63E48 /* Main.storyboard in Resources */,
+				1A6FA7411B0D3FA700531034 /* SampleIcon@2x.png in Resources */,
+				1A6FA73F1B0D3FA700531034 /* SampleIcon-72.png in Resources */,
 				1AB4378D1AD2D0B700F63E48 /* LaunchScreen.xib in Resources */,
 				1AB4378A1AD2D0B700F63E48 /* Images.xcassets in Resources */,
+				1A6FA7401B0D3FA700531034 /* SampleIcon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
