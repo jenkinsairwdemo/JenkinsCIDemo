@@ -18,6 +18,12 @@
 	<string>1.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>SampleIcon.png</string>
+		<string>SampleIcon@2x.png</string>
+		<string>SampleIcon-72.png</string>
+	</array>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 </dict>

@@ -4,14 +4,20 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>SampleIcon.png</string>
+		<string>SampleIcon-72.png</string>
+		<string>SampleIcon@2x.png</string>
+	</array>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.seinternal.$(PRODUCT_NAME:rfc1034identifier)</string>
+	<string>com.seinternal.AppLifecycle</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>$(PRODUCT_NAME)</string>
+	<string>AppLifecycle</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
